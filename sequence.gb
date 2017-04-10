@@ -1,0 +1,265 @@
+LOCUS       JF917085                 502 bp    DNA     linear   VRL 25-JUL-2016
+DEFINITION  Blueberry red ringspot virus isolate UF1586 putative translational
+            transactivator gene, partial cds.
+ACCESSION   JF917085
+VERSION     JF917085.1
+KEYWORDS    .
+SOURCE      Blueberry red ringspot virus
+  ORGANISM  Blueberry red ringspot virus
+            Viruses; Retro-transcribing viruses; Caulimoviridae; Soymovirus.
+REFERENCE   1  (bases 1 to 502)
+  AUTHORS   Harmon,P.F., Harmon,C.L., Vitoreli,A.M., Liberti,D. and Wright,A.F.
+  TITLE     First report of Blueberry red ringspot virus on southern highbush
+            blueberry in Florida
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 502)
+  AUTHORS   Harmon,P.F., Harmon,C.L., Vitoreli,A.M., Liberti,D. and Wright,A.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAY-2011) Plant Pathology, University of Florida,
+            1453 Fifield Hall Hull Rd, Gainesville, FL 32611, USA
+FEATURES             Location/Qualifiers
+     source          1..502
+                     /organism="Blueberry red ringspot virus"
+                     /proviral
+                     /mol_type="genomic DNA"
+                     /isolate="UF1586"
+                     /host="southern highbush blueberry (interspecific
+                     Vaccinium hybrid) cultivar Star"
+                     /db_xref="taxon:172220"
+                     /country="USA"
+                     /collection_date="2010"
+                     /PCR_primers="fwd_name: rrsv3, fwd_seq:
+                     atcagtcccagaagaaaagaagta, rev_name: rrsv4, rev_seq:
+                     tccgaaaaatagatagtgtcagc"
+     CDS             <1..>502
+                     /codon_start=2
+                     /product="putative translational transactivator"
+                     /protein_id="AEQ19303.1"
+                     /translation="SVLANIEEVNKQVAAAKSKKEYYVIFNGPMKGIYDEWHKAAPHI
+                     QGQSSIIHKKYPNIDEAKKALGGSYAAITNAPASPRDTKVLLGRFKVPSAPTIDSIQT
+                     IESKMKALKVTQKKYNDYMEILYNYKDQHKLLHFYPKYRDTIGYKAIILPEASALTTY
+                     ELFKNGL"
+ORIGIN      
+        1 ttcagttcta gccaacattg aagaagtcaa caaacaagtt gcagcagcca aaagcaagaa
+       61 ggaatattat gtcattttta atggacccat gaaaggaatc tatgacgaat ggcataaagc
+      121 agcaccacat attcaaggac aatccagcat cattcacaag aaatatccaa acattgacga
+      181 agcaaaaaag gctcttggag gaagctatgc agcaatcact aatgcaccag catcacccag
+      241 agatacaaaa gtattattgg gaagatttaa agtcccttca gcaccaacaa ttgattcaat
+      301 ccaaactatt gagtcaaaaa tgaaagcatt aaaagttact cagaagaaat ataatgatta
+      361 tatggagatc ctctacaact acaaggatca acataaatta ttacatttct accctaagta
+      421 ccgagataca attggataca aagcaataat cttgcccgaa gcatcagcat taaccactta
+      481 tgaattgttc aaaaatggat ta
+//
+
+LOCUS       JF917084                 502 bp    DNA     linear   VRL 25-JUL-2016
+DEFINITION  Blueberry red ringspot virus isolate UF1584 putative translational
+            transactivator gene, partial cds.
+ACCESSION   JF917084
+VERSION     JF917084.1
+KEYWORDS    .
+SOURCE      Blueberry red ringspot virus
+  ORGANISM  Blueberry red ringspot virus
+            Viruses; Retro-transcribing viruses; Caulimoviridae; Soymovirus.
+REFERENCE   1  (bases 1 to 502)
+  AUTHORS   Harmon,P.F., Harmon,C.L., Vitoreli,A.M., Liberti,D. and Wright,A.F.
+  TITLE     First report of Blueberry red ringspot virus on southern highbush
+            blueberry in Florida
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 502)
+  AUTHORS   Harmon,P.F., Harmon,C.L., Vitoreli,A.M., Liberti,D. and Wright,A.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAY-2011) Plant Pathology, University of Florida,
+            1453 Fifield Hall Hull Rd, Gainesville, FL 32611, USA
+FEATURES             Location/Qualifiers
+     source          1..502
+                     /organism="Blueberry red ringspot virus"
+                     /proviral
+                     /mol_type="genomic DNA"
+                     /isolate="UF1584"
+                     /host="southern highbush blueberry (interspecific
+                     Vaccinium hybrid) cultivar Star"
+                     /db_xref="taxon:172220"
+                     /country="USA"
+                     /collection_date="2010"
+                     /PCR_primers="fwd_name: rrsv3, fwd_seq:
+                     atcagtcccagaagaaaagaagta, rev_name: rrsv4, rev_seq:
+                     tccgaaaaatagatagtgtcagc"
+     CDS             <1..>502
+                     /codon_start=2
+                     /product="putative translational transactivator"
+                     /protein_id="AEQ19302.1"
+                     /translation="SVLANIEEVNKQVAAAKSKKEYYVIFNGPMKGIYDEWYKAAPHI
+                     QGQSSIIHKKYPNIDEAKKALGGSYAAITNAPASPRDTKVLLGRFKVPSAPTIDSIQT
+                     IESKMKALKVTQKKYNDYMEILYNYKDQHKLLHFYPKYRDTIGYKAIILPEASALTTY
+                     ELFKNGL"
+ORIGIN      
+        1 ttcagttcta gccaacattg aagaagtcaa caaacaagtt gcagcagcca aaagcaagaa
+       61 ggaatattat gtcattttta atggacccat gaaagggatc tatgacgaat ggtataaagc
+      121 agcaccacat attcaaggac aatccagcat cattcacaag aaatatccaa acattgacga
+      181 agcaaaaaag gctcttggag gaagctatgc agcaatcact aatgcaccag catcacccag
+      241 agatacaaaa gtattattgg gaagatttaa agtcccttca gcaccaacaa ttgattcaat
+      301 ccaaactatt gagtcaaaaa tgaaagcatt aaaagttact cagaagaaat ataatgatta
+      361 tatggagatc ctctacaact acaaggatca acataaatta ttacatttct accctaagta
+      421 ccgagataca attggataca aagcaataat cttgcccgaa gcatcagcat taaccactta
+      481 tgaattgttc aaaaatggat ta
+//
+
+LOCUS       JF917083                 502 bp    DNA     linear   VRL 25-JUL-2016
+DEFINITION  Blueberry red ringspot virus isolate UF1583 putative translational
+            transactivator gene, partial cds.
+ACCESSION   JF917083
+VERSION     JF917083.1
+KEYWORDS    .
+SOURCE      Blueberry red ringspot virus
+  ORGANISM  Blueberry red ringspot virus
+            Viruses; Retro-transcribing viruses; Caulimoviridae; Soymovirus.
+REFERENCE   1  (bases 1 to 502)
+  AUTHORS   Harmon,P.F., Harmon,C.L., Vitoreli,A.M., Liberti,D. and Wright,A.F.
+  TITLE     First report of Blueberry red ringspot virus on southern highbush
+            blueberry in Florida
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 502)
+  AUTHORS   Harmon,P.F., Harmon,C.L., Vitoreli,A.M., Liberti,D. and Wright,A.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAY-2011) Plant Pathology, University of Florida,
+            1453 Fifield Hall Hull Rd, Gainesville, FL 32611, USA
+FEATURES             Location/Qualifiers
+     source          1..502
+                     /organism="Blueberry red ringspot virus"
+                     /proviral
+                     /mol_type="genomic DNA"
+                     /isolate="UF1583"
+                     /host="southern highbush blueberry (interspecific
+                     Vaccinium hybrid) cultivar Scintilla"
+                     /db_xref="taxon:172220"
+                     /country="USA"
+                     /collection_date="2010"
+                     /PCR_primers="fwd_name: rrsv3, fwd_seq:
+                     atcagtcccagaagaaaagaagta, rev_name: rrsv4, rev_seq:
+                     tccgaaaaatagatagtgtcagc"
+     CDS             <1..>502
+                     /codon_start=2
+                     /product="putative translational transactivator"
+                     /protein_id="AEQ19301.1"
+                     /translation="SVLANIEEVNKQVAAAKSKKEYYVIFNGPMKGIYDEWHKAAPHI
+                     QGQSSIIHKKYPNIDEAKKALGGSYAAITNAPASPRDTKVLLGRFKVPSAPTIDSIQT
+                     IESKMKALKVTQKKYNDYMEILYNYKDQHKLLHFYPKYRDTIGYKAIILPEASALTTY
+                     ELFKNGL"
+ORIGIN      
+        1 ttcagttcta gccaacattg aagaagtcaa taaacaagtt gcagcagcca aaagcaagaa
+       61 ggaatattat gtcattttta atggacccat gaaagggatc tatgacgaat ggcataaagc
+      121 agcaccacat attcaaggac aatccagcat cattcacaag aaatatccaa acattgacga
+      181 agcaaaaaag gctcttggag gaagctatgc agcaatcact aatgcaccag catcacccag
+      241 agatacaaaa gtattattgg gaagatttaa agtcccttca gcaccaacaa ttgattcaat
+      301 ccaaactatt gagtcaaaaa tgaaagcatt aaaagttact cagaagaaat ataatgatta
+      361 tatggagatc ctctacaact acaaggatca acataaatta ttacatttct accctaagta
+      421 ccgagataca attggataca aagcaataat cttgcccgaa gcatcagcat taaccactta
+      481 tgaattgttc aaaaatggat ta
+//
+
+LOCUS       JF917082                 502 bp    DNA     linear   VRL 25-JUL-2016
+DEFINITION  Blueberry red ringspot virus isolate UF1585 putative translational
+            transactivator gene, partial cds.
+ACCESSION   JF917082
+VERSION     JF917082.1
+KEYWORDS    .
+SOURCE      Blueberry red ringspot virus
+  ORGANISM  Blueberry red ringspot virus
+            Viruses; Retro-transcribing viruses; Caulimoviridae; Soymovirus.
+REFERENCE   1  (bases 1 to 502)
+  AUTHORS   Harmon,P.F., Harmon,C.L., Vitoreli,A.M., Liberti,D. and Wright,A.F.
+  TITLE     First report of Blueberry red ringspot virus on southern highbush
+            blueberry in Florida
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 502)
+  AUTHORS   Harmon,P.F., Harmon,C.L., Vitoreli,A.M., Liberti,D. and Wright,A.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAY-2011) Plant Pathology, University of Florida,
+            1453 Fifield Hall Hull Rd, Gainesville, FL 32611, USA
+FEATURES             Location/Qualifiers
+     source          1..502
+                     /organism="Blueberry red ringspot virus"
+                     /proviral
+                     /mol_type="genomic DNA"
+                     /isolate="UF1585"
+                     /host="southern highbush blueberry (interspecific
+                     Vaccinium hybrid) cultivar Star"
+                     /db_xref="taxon:172220"
+                     /country="USA"
+                     /collection_date="2010"
+                     /PCR_primers="fwd_name: rrsv3, fwd_seq:
+                     atcagtcccagaagaaaagaagta, rev_name: rrsv4, rev_seq:
+                     tccgaaaaatagatagtgtcagc"
+     CDS             <1..>502
+                     /codon_start=2
+                     /product="putative translational transactivator"
+                     /protein_id="AEQ19300.1"
+                     /translation="SVLANIEEVNKQIAAAKSKKEYYVIFNGPMKGIYDEWHKAAPHI
+                     QGQSSIIHKKYPNIDEAKKALGGSYAAITNAPASPRDTKVLLGRFKVPSAPTIDSIQT
+                     IESKMKALKVTQKKYNDYMEILYNYKDQHKLLHFYPKYRDTIGYKAIILPEASALTTY
+                     ELFKNGL"
+ORIGIN      
+        1 ttcagttcta gccaacattg aagaagtcaa caaacaaatt gcagcagcca aaagcaagaa
+       61 ggaatattat gtcattttta atggacccat gaaagggatc tatgacgaat ggcataaagc
+      121 agcaccacat attcaaggac aatccagcat cattcacaag aaatatccaa acattgacga
+      181 agcaaaaaag gctcttggag gaagctatgc agcaatcact aatgcaccag catcacccag
+      241 agatacaaaa gtattattgg gaagatttaa agtcccttca gcaccaacaa ttgattcaat
+      301 ccaaactatt gagtcaaaaa tgaaagcatt aaaagttact cagaagaaat ataatgatta
+      361 tatggagatc ctctacaact acaaggatca acataaatta ttacatttct accctaagta
+      421 ccgagataca attggataca aagcaataat cttgcccgaa gcatcagcat taaccactta
+      481 tgaattgttc aaaaatggat ta
+//
+
+LOCUS       JF917081                 502 bp    DNA     linear   VRL 25-JUL-2016
+DEFINITION  Blueberry red ringspot virus isolate UF1587 putative translational
+            transactivator gene, partial cds.
+ACCESSION   JF917081
+VERSION     JF917081.1
+KEYWORDS    .
+SOURCE      Blueberry red ringspot virus
+  ORGANISM  Blueberry red ringspot virus
+            Viruses; Retro-transcribing viruses; Caulimoviridae; Soymovirus.
+REFERENCE   1  (bases 1 to 502)
+  AUTHORS   Harmon,P.F., Harmon,C.L., Vitoreli,A.M., Liberti,D. and Wright,A.F.
+  TITLE     First report of Blueberry red ringspot virus on southern highbush
+            blueberry in Florida
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 502)
+  AUTHORS   Harmon,P.F., Harmon,C.L., Vitoreli,A.M., Liberti,D. and Wright,A.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAY-2011) Plant Pathology, University of Florida,
+            1453 Fifield Hall Hull Rd, Gainesville, FL 32611, USA
+FEATURES             Location/Qualifiers
+     source          1..502
+                     /organism="Blueberry red ringspot virus"
+                     /proviral
+                     /mol_type="genomic DNA"
+                     /isolate="UF1587"
+                     /host="southern highbush blueberry (interspecific
+                     Vaccinium hybrid) cultivar Star"
+                     /db_xref="taxon:172220"
+                     /country="USA"
+                     /collection_date="2010"
+                     /PCR_primers="fwd_name: rrsv3, fwd_seq:
+                     atcagtcccagaagaaaagaagta, rev_name: rrsv4, rev_seq:
+                     tccgaaaaatagatagtgtcagc"
+     CDS             <1..>502
+                     /codon_start=2
+                     /product="putative translational transactivator"
+                     /protein_id="AEQ19299.1"
+                     /translation="SVLANIEEVNKQIAAAKSKKEYYVIFNGPMKGIYDEWHKAAPHI
+                     QGQSSIIHKKYPNIDEAKKALGGSYAAITNAPASPRDTKVLLGRFKVPSAPTIDSIQT
+                     IESKMKALKVTQKKYNDYMEILYNYKDQHKLLHFYPKYRDTIGYKAIILPEASALTTY
+                     ELFKNGL"
+ORIGIN      
+        1 ttcagttcta gccaacattg aagaagtcaa caaacaaatt gcagcagcca aaagcaagaa
+       61 ggaatattat gtcattttta atggacccat gaaagggatc tatgacgaat ggcataaagc
+      121 agcaccacat attcaaggac aatccagcat cattcacaag aaatatccaa acattgacga
+      181 agcaaaaaag gctcttggag gaagctatgc agcaatcact aatgcaccag catcacccag
+      241 agatacaaaa gtattattgg gaagatttaa agtcccttca gcaccaacaa ttgattcaat
+      301 ccaaactatt gagtcaaaaa tgaaagcatt aaaagttact cagaagaagt ataatgatta
+      361 tatggagatc ctctacaact acaaggatca acataaatta ttacatttct accctaagta
+      421 ccgagataca attggataca aagcaataat cttgcccgaa gcatcagcat taaccaccta
+      481 tgaattgttc aaaaatggat ta
+//
+
